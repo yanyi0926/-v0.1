@@ -1,10 +1,12 @@
-###  项目名:智慧校园  ###
-# wisdom-campus
+### 项目名：智慧校园 wisdom-campus
 
-###  项目运行  ###
-# npm run serve
+###  项目运行：Vue-cli :npm run serve  ###
 
-###  项目结构  ###
+### 项目背景：介于学校智慧校园的比赛
+
+###  项目结构：  ###
+
+```
 # node_modlules 放置第三方模块
 # public 放置主页面以及网页图标
 # src 
@@ -16,6 +18,7 @@
  ->views      放置动态路由 
  ->app.vue    组件汇总
  ->main.js    集中注册
+
 # 外层文件
  ->.gitignore        git管理
  ->babel.config      babel代码编译
@@ -41,9 +44,11 @@
    ->FoodView            食堂页食物组件
    ->ProtestantismBody   新教页
    ->ProtestantismBody   食堂页和寝室页复用地图组件
+```
 
+### 项目亮点
 
-###  项目亮点  ###
+```
  =>组件开发 路由跳转
  =>主页面的小功能点
    ->地图的拖拽功能 
@@ -54,3 +59,5 @@
    ->图书管理系统 技术：增删查
 =>食堂页面的小功能点
    ->食堂结算系统 技术：vue的双向绑定
+```
+
