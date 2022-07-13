@@ -11,7 +11,7 @@
 # public 放置主页面以及网页图标
 # src 
  ->assets     放置json假数据
- ->components 放置静态路由 
+ ->components 放置静态组件 
  ->fonts      放置字体 
  ->images     放置图片
  ->route      路由配置
